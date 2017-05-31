@@ -20,3 +20,12 @@ Imports:
 java.math.*;
 Math.sqrt(num)
 
+Typecasting:
+
+(int)Math.sqrt()
+
+typecasting works best
+refer mathdemo file for better explanation
+
+
+
